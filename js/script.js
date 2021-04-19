@@ -6,6 +6,6 @@ function showMenu() {
 }
 
 function hideMenu() {
-  navLinks.style.right = "-100%";
+  navLinks.style.right = "-120%";
   // open.style.display = 'none'
 }
